@@ -71,5 +71,5 @@ This repository is licensed under the [GPL-3.0 License](./LICENSE).
    git clone https://github.com/your-username/kotlin-projects.git
    cd kotlin-projects
    ```
-2. Open the app in AndroidStudio.
+2. Navigate to the selected application and open the app in AndroidStudio.
 3. Run application in emulator or in your Android device.
