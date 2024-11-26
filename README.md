@@ -1,6 +1,8 @@
 # Kotlin Projects Repository
 
-Welcome to the **Kotlin Projects Repository**! This collection showcases various projects and applications built using Kotlin, covering a wide range of functionalities, including health apps, weather tracking, poetry exploration, and more.
+This collection showcases various projects and applications, covering a wide range of functionalities, including health apps, weather tracking, poetry exploration, and more.
+
+Android applications are made with **Kotlin** and **AndroidStudio**. Some are from Mobile Programming with Native Technologies course at OAMK from spring 2024, with some bonus applications. Codebase is **NOT** actively maintained, and some apps are still in-progress, or might have <ins>bugs</ins>.
 
 ---
 
