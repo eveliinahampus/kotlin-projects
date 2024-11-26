@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SpeciesApp</string>
+    <string name="enter_species_name">Enter species name</string>
+    <string name="fetch_data">Fetch Data</string>
+    <string name="species_occurrence_data">Species Occurrence Data</string>
+    <string name="species_data">Species Data: %s</string>
+    <string name="error_message">Error: %d</string>
+    <string name="network_error">Network Error: %s</string>
+    <string name="error_message_default">Error message</string>
+    <string name="network_error_message">Network Error Message</string>
+    <string name="error">Error: %1$s</string>
+
+</resources>
