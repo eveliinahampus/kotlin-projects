@@ -18,28 +18,36 @@ Android applications are made with **Kotlin** and **AndroidStudio**. Some are fr
 This repository includes the following projects:
 
 ### 1. **BMI1**
-   - **Description**: A simple application to calculate and track BMI (Body Mass Index).
+   - **Description**: A simple application to calculate BMI (Body Mass Index).
+   - **Maintained last**: 27/11/24
 
 ### 2. **BMIViewModel**
    - **Description**: An enhanced BMI app integrating the ViewModel architecture for better state management.
+   - **How to use?**: Enter your height (m) and weight (kg) to count BMI.
+   - **Maintained last**: 27/11/24
+
+## ViewModel
+Identical idea was in BMI1 repo, but implemented as ViewModel and separated UI from actions.
 
 ### 3. **Calories**
-   - **Description**: An app to track calorie intake.
+   - **Description**: An app to calculate needed calories based on weight, gender and activity level.
+   - **Maintained last**: 27/11/24
 
 ### 4. **LoginformApp**
-   - **Description**: A basic login form application demonstrating form validation in Kotlin.
+   - **Description**: A basic login form.
+   - **Maintained last**: 27/11/24
 
-### 5. **PoetryApp**
+### 5. **PoetryApp** Status: under development, does not function.
    - **Description**: Explore poetry from [Poetry API](https://poetrydb.org/index.html).
 
-### 6. **ScaffoldApp**
-   - **Description**: A template project using Jetpack Compose's `Scaffold` for building intuitive UI layouts.
+### 6. **ScaffoldApp** Status: under development, needs bug fixes.
+   - **Description**: A template project using Jetpack Compose `Scaffold` for building intuitive UI layouts.
 
-### 7. **SeismicApp**
+### 7. **SeismicApp** Status: under development, does not function.
    - **Description**: An app to monitor seismic activity and provide alerts for potential hazards.
 
-### 8. **SpeciesApp**
-   - **Description**: A biodiversity tracker to explore information about various species.
+### 8. **SpeciesApp** Status: under development, does not function.
+   - **Description**: A biodiversity tracker to explore information about various species. Aim of this application is fetch data from GBIF api, with viewmodel architecture, retrofit client and gson converter. Modified theme colors.
 
 ### 9. **Theming**
    - **Description**: A project demonstrating theming and styling in Kotlin apps using Jetpack Compose.
@@ -50,10 +58,10 @@ This repository includes the following projects:
 ### 11. **WalkthroughBMI**
    - **Description**: A step-by-step guide to understanding and using the BMI app.
 
-### 12. **WeatherApp**
+### 12. **WeatherApp** Status: under development, does not function.
    - **Description**: A weather tracker providing forecasts and real-time updates.
 
-### 13. **WeatherOulu**
+### 13. **WeatherOulu** Status: under development, does not function.
    - **Description**: A localized weather app specifically tailored for Oulu.
 
 ---
