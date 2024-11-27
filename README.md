@@ -19,18 +19,18 @@ This repository includes the following projects:
 
 ### 1. **BMI1**
    - **Description**: A simple application to calculate BMI (Body Mass Index).
+   - **Use Case**: Enter your height (m) and weight (kg) to count BMI.
    - **Maintained last**: 27/11/24
 
 ### 2. **BMIViewModel**
    - **Description**: An enhanced BMI app integrating the ViewModel architecture for better state management.
-   - **How to use?**: Enter your height (m) and weight (kg) to count BMI.
+   - **Use Case**: Enter your height (m) and weight (kg) to count BMI.
    - **Maintained last**: 27/11/24
-
-## ViewModel
-Identical idea was in BMI1 repo, but implemented as ViewModel and separated UI from actions.
+   - **Improvement**: Identical idea with app BMI1, but in this version ViewModel was implemented, and separated UI from actions.
 
 ### 3. **Calories**
    - **Description**: An app to calculate needed calories based on weight, gender and activity level.
+   - **Use Case**: Enter your gender, weight and activity level to count your needed calorie intake.
    - **Maintained last**: 27/11/24
 
 ### 4. **LoginformApp**
