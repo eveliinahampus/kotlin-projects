@@ -23,10 +23,9 @@ This repository includes the following projects:
    - Maintained last: 27/11/24
 
 2. BMIViewModel
-   - Description: An enhanced BMI app integrating the ViewModel architecture for better state management.
+   - Description: An enhanced BMI app integrating the ViewModel architecture for better state management, and separated UI from actions.
    - Use Case: Enter your height (m) and weight (kg) to count BMI.
    - Maintained last: 27/11/24
-   - Improvement: Identical idea with app BMI1, but in this version ViewModel was implemented, and separated UI from actions.
 
 3. Calories
    - Description: An app to calculate needed calories based on weight, gender, and activity level.
@@ -51,6 +50,7 @@ This repository includes the following projects:
 
 9. Theming
    - Description: A project demonstrating theming and styling in Kotlin apps using Jetpack Compose.
+   - Maintained last: 29/11/24
 
 10. ToDoApp
     - Description: A classic to-do list application for managing tasks and boosting productivity.
