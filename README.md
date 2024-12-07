@@ -55,13 +55,10 @@ This repository includes the following projects:
 10. ToDoApp
     - Description: A classic to-do list application for managing tasks and boosting productivity.
 
-11. WalkthroughBMI
-    - Description: A step-by-step guide to understanding and using the BMI app.
-
-12. WeatherApp Status: under development, does not function.
+11. WeatherApp Status: under development, does not function.
     - Description: A weather tracker providing forecasts and real-time updates.
 
-13. WeatherOulu Status: under development, does not function.
+12. WeatherOulu Status: under development, does not function.
     - Description: A localized weather app specifically tailored for Oulu.
 ```
 
